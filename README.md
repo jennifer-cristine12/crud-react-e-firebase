@@ -1,2 +1,11 @@
-# crud-react-e-firebase
-criando uma aplicação web  usando react.js  e utilizando firebase para api
+#anotações
+- a const de configuração de chave api está vazia, pois chaves api não podem ser publicas
+- a chave pode ser acessada com as seguintes instruções:
+  -   criação de banco de dados
+  -   projetos
+  -   adicionar ou usar um projeto existente
+  -   cloud firestore
+  -   iniciar coleção
+  -   visão geral do projeto
+  -   configuração do projeto
+  -   copiar e colar o codigo da chave api fornecidos na pagina
